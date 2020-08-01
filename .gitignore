@@ -1,0 +1,6 @@
+#ignore what is inside of logs folder
+/logs/
+#ignore what is inside of models folder
+/models/
+#ignore what is inside music* folders
+/music*/
